@@ -19,13 +19,14 @@
 
 ## 🏗️ Arquitetura
 
+```
 src/
 ├── main/
-│    └── BancoMain.java          # Ponto de entrada e interface com usuário
+│    └── BancoMain.java    # Ponto de entrada e interface com usuário
 └── service/
-├── Conta.java               # Modelo de dados
-└── BancoService.java        # Regras de negócio
-
+├── Conta.java  # Modelo de dados
+└── BancoService.java  # Regras de negócio
+```
 ---
 
 ## 🛠️ Tecnologias
