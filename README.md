@@ -120,9 +120,9 @@ Saldo atual: R$ 500,00
 ## 🛣️ Roadmap
 
 ### Versão atual — v1.0
-- [x] Criação de conta bancária
-- [x] Depósito, saque e consulta de saldo
-- [x] Extrato com histórico de movimentações
+- [ ] Criação de conta bancária
+- [ ] Depósito, saque e consulta de saldo
+- [ ] Extrato com histórico de movimentações
 
 ### Próximas versões
 
